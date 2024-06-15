@@ -9,3 +9,4 @@ League of Legends is a multiplayer online battle arena (MOBA) game played by mil
 I want to express gratitude to my supervisor, Dr. Mubashir Ali, as well as project supervisors Dr. JizhengWan and Dr. Qamar Natsheh, for their constant support during this project. I’m also grateful to my family and friends for always being there for me. I would also like to thank the University of Birmingham for providing me the sufficient resources and guidance to complete this project.
 
 Please find all the detailed explanation of my project work in the project work linked below:
+https://github.com/karthickeyan-sr/LoL-Esports-Analysis-Prediction-Dashboard/blob/6a5143aedf12d3a810fdd308992dd3cbf71e08d9/1_MSc_Project_Report.pdf
